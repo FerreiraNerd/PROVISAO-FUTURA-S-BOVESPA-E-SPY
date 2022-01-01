@@ -2,7 +2,7 @@
 
 Caso tenha alguma duvida entrar no link abaixo que esta a explicação completa das funções, e como utilizar todos as informações
 
-https://youtu.be/QJfWjheHjfI
+link youtube: https://youtu.be/QJfWjheHjfI
 
 Qualquer duvida estou a diposição
 
