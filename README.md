@@ -1,4 +1,4 @@
-# PROVISAO FUTURAS BOVESPA E SPY (S&P500)
+# PROVISÃO FUTURA BOVESPA E SPY (S&P500)
 
 Caso tenha alguma duvida entrar no link abaixo que esta a explicação completa das funções, e como utilizar todos as informações
 
